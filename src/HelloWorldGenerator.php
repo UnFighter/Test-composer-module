@@ -1,5 +1,5 @@
 <?php
-namespace HelloWorldGenerator;
+namespace TestComposerModule;
 class HelloWorldGenerator
 {
     public function getHelloWorld()
