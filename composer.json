@@ -2,7 +2,7 @@
     "name": "m-mashalov/test-composer-module",
     "autoload": {
         "psr-4": {
-            "TestComposerModule\\": "src/"
+            "MMashalov\\TestComposerModule\\": "src/"
         }
     }
 }
